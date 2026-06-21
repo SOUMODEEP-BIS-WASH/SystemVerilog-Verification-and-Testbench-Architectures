@@ -187,11 +187,11 @@ This repository helped in understanding:
 ```text
 systemverilog-verification-projects/
 │
-├── 01_T_Flip_Flop_with_Assertion_Based_Testbench/
-├── 02_RCA_with_SV_Testbench_Architecture/
-├── 03_ALU_with_SV_Testbench_Architecture/
-├── 04_Dual_Port_SRAM_with_SV_Testbench_Architecture/
-└── 05_Synchronous_FIFO_with_SV_Testbench_Architecture/
+├── T_Flip_Flop_with_Assertion_Based_Testbench/
+├── RCA_with_SV_Testbench_Architecture/
+├── ALU_with_SV_Testbench_Architecture/
+├── Dual_Port_SRAM_with_SV_Testbench_Architecture/
+└── Synchronous_FIFO_with_SV_Testbench_Architecture/
 ```
 
 ---
