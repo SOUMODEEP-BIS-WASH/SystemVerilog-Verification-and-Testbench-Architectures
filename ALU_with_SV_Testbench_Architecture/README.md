@@ -1,4 +1,4 @@
-# Project 3: ALU with SV Testbench Architecture
+# ALU with SV Testbench Architecture
 
 ## Overview
 This project implements a **4-bit Arithmetic Logic Unit (ALU)** in Verilog and verifies it using a structured **SystemVerilog testbench architecture**.
